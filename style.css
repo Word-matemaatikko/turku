@@ -1,3 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.turku {
+    font-size: 1500%;
+    color: azure;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: cursive;
+}
